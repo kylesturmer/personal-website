@@ -27,3 +27,13 @@ body {
 #aboutme {
   height: 100%;
 }
+
+#experience {
+  height: 100%;
+}
+
+#experience p {
+  text-align: center;
+  font-size: 20px;
+  color: black;
+}
