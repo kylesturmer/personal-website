@@ -15,6 +15,10 @@ body {
   margin-top: 50px;
 }
 
+#main-color{
+  background-color:	#F5F5F5;
+}
+
 .footer {
   position: absolute;
   right: 0;
@@ -30,6 +34,9 @@ body {
 
 #education {
   height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #education p{
@@ -38,6 +45,10 @@ body {
 }
 #experience {
   height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #D3D3D3;
 }
 
 #experience p {
@@ -48,5 +59,8 @@ body {
 
 #skills{
   height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: 	#87CEFA;
 }
