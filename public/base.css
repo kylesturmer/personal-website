@@ -7,7 +7,7 @@ body {
 }
 
 #navbar {
-  background-color: #D3D3D3;
+  background-color:	#B0C4DE;
   font-size: 17px;
   width: 100%;
   position: fixed;
@@ -20,6 +20,7 @@ body {
   height: 100%;
   background: url();
   margin-top: 100px;
+  text-align: center;
 }
 
 #main-color{
@@ -40,6 +41,7 @@ body {
 }
 
 #education {
+  background-color: #DCDCDC;
   height: 100%;
   display: flex;
   align-items: center;
@@ -55,7 +57,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #D3D3D3;
+  background-color:	#F0FFFF
 }
 
 #experience p {
@@ -69,5 +71,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: 	#87CEFA;
+  background-color: 	#F0F8FF;
 }
