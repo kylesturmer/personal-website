@@ -28,6 +28,14 @@ body {
   height: 100%;
 }
 
+#education {
+  height: 100%;
+}
+
+#education p{
+  color: black;
+  font-size: 20px;
+}
 #experience {
   height: 100%;
 }
