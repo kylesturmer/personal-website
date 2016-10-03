@@ -70,50 +70,10 @@ body {
   color: black;
 }
 
-/*#skills{
+#skills{
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: 	#F0F8FF;
-}*/
-
-.skills {
-	margin-top: 0px;
-	padding-top: 75px;
-	margin-left: 150px;
-	margin-right: 150px;
-	background-color: white;
-	padding-bottom: 25px;
-
-}
-
-.skills h3 {
-	color: #ff5050;
-	padding-left: 0px;
-	margin-left: 0px;
-	padding-top: 0px;
-	margin-top: 0px;
-}
-
-.skills ul {
-	font-size: 18px;
-	list-style-type: none;
-	padding-left: 0px;
-	margin-right: 0px;
-}
-
-.skills ul li {
-	padding-left: 20px;
-	padding-bottom: 15px;
-	padding-top: 20px;
-	margin-bottom: 10px;
-    border-radius: 25px;
-	border: 2px solid #cccccc;
-}
-
-.skills i {
-	padding-right: 5px;
-	float: right;
-	color: #1a9cff;
 }
